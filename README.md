@@ -8,8 +8,9 @@
 
 ## Skills
 **Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white) 
@@ -17,4 +18,7 @@
 
 **Frameworks**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D) 
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE672F?logo=codeigniter&logoColor=white)
+
+
