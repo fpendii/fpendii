@@ -1,4 +1,4 @@
-# Hello, I'm Budi 👋
+# Hello, I'm Pendi 👋
 
 ## About Me
 - 🌱 I’m currently learning **Vue & Laravel**
