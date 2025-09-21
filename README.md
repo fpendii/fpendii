@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Vue & Laravel**
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about backend development
-- 📫 How to reach me: email@example.com
+- 📫 How to reach me: nurefendi210203@gmail.com
 
 ## Skills
 **Programming Languages**  
